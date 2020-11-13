@@ -80,8 +80,8 @@ References
 
 Simatic, Simatic S5, Simatic S7, S7-200, S7-300, S7-400, S7-1200, S7-1500 are registered Trademarks of Siemens
 
-License
+Thanks
 ----------
-https://opensource.org/licenses/BSD-3-Clause
+robinson---https://github.com/robinson/gos7
 
-Copyright (c) 2018, robinson
+
